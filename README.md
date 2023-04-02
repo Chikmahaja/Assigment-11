@@ -1,4 +1,4 @@
-# Assigment 11
+# Assignment 11
 ## Data Visualization with Tableau
 
 Strategi untuk meningkatkan pendapatan coffee shop berdasarkan data customer. Berikut adalah dashboard customer demography.
@@ -47,4 +47,4 @@ Berdasarkan kedua dashboard tersebut dapat disimpulkan beberapa stategi yang bis
 
 7. Pembaruan menu dengan menghilangkan menu yang tidak terjual, bisa juga mengganti dengan menu baru yang sedang tren.
 
-8. Menambah stok minuman yang memiliki penjualan tinggi, detail minuman yang tepat untuk diproduksi lebih untuk setiap outlet dapat dilihat pada assigment sebelumnya (https://github.com/Chikmahaja/Assigment-10).
+8. Menambah stok minuman yang memiliki penjualan tinggi, detail minuman yang tepat untuk diproduksi lebih untuk setiap outlet dapat dilihat pada assignment sebelumnya (https://github.com/Chikmahaja/Assigment-10).
